@@ -1,0 +1,25 @@
+body{
+color: white;
+background-color: blueviolet;
+}
+ul{
+display: flex;
+justify-content: space-between;
+list-style-type: none;
+align-items: center;
+padding: 16px;
+}
+img{
+width: 200px;
+height: 200px;
+border-radius: 50%;
+border: 5px solid black;
+}
+.resposta{font: size 16px;;
+
+}
+
+.center{
+    text-align: center;
+    color:red;
+}
